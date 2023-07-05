@@ -1,10 +1,11 @@
 Repositório criado para salvar meus primeiros projetos, grande parte deles sendo demanda da faculdade.
-Não tive muito tempo para tratar e melhorar conforme desejava mas já expressam a nivel iniciante um grau de dificuldade interessante em pyhton.
+Não tive muito tempo para tratar excessões e melhorar alguns aespectos conforme desejava mas já expressam em nível básico
+um grau de dificuldade interessante em pyhton.
 
 PROJETO_RPG 
 
-Fiz um jogo básico utilizando propriedades de matriz e manipulando arrays dentro da mesma. O jogo utiliza loops, funções com variáveis, 
-condicionais, entre outros atributos básicos. 
+Fiz um jogo simples utilizando propriedades de matriz e manipulando arrays dentro da mesma. O jogo utiliza loops, funções com variáveis, 
+condicionais, entre outros atributos relacionados a array. 
 
 PROJETO_Jogo_da_Velha
 
